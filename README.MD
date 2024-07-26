@@ -24,7 +24,7 @@ An application that makes it more convenient and quick for you to access the Win
 
 ## ScreenShot
 
-![image text](https://github.com/jackwolfey/Windows-Settings-Center/asset/main_window.png "Main Window Screen Shot")
+![image text](https://raw.githubusercontent.com/jackwolfey/Windows-Settings-Center/main/asset/main_window.png "Main Window Screen Shot")
 
 
 # LICENSE
